@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  position: absolute;
+  top: 30%;
+  left: 25%;
+}
+
+
+.text{
+margin: 25%;
+}
